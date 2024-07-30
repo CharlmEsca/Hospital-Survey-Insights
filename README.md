@@ -6,6 +6,6 @@
 ## Inisghts Summary
 ## Recommendations
 ## Dashboard
-The ![Alt text](file:///Users/charlmescalera/Desktop/Screenshot%202024-07-30%20at%201.12.08%E2%80%AFPM.png?raw=true)
+The ![Alt text](/Desktop/Screenshot%202024-07-30%20at%201.12.08%E2%80%AFPM.png?raw=true)
 
 
