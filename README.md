@@ -21,9 +21,9 @@ Here are the key metrics used the compare each hospital:
 - Top performing hospitals receive better patient feedback for all/most top-box questions relative to the hospitals in their size and state cohort
 - Lower performing hospitals receive worse patient feedback for all/most top-box questions relative to the hospitals in their size and state cohort
 - Three notable questions seem to differentiate the top and lower performing hospitals:
-    *Patients "always" received bathroom help as soon as they wanted*
-    *Patients "always" received help as soon as they wanted*
-    *Patients "always received call button help as soon as they wanted*
+    -- *Patients "always" received bathroom help as soon as they wanted*
+    -- *Patients "always" received help as soon as they wanted*
+    -- *Patients "always received call button help as soon as they wanted*
 - If a hospital peforms better than their cohort for these questions, they are usually a top performing hospital in their cohort and vice versa.
 
 ### Cohort Data Spread
