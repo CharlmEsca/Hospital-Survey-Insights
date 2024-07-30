@@ -34,6 +34,6 @@ Here are the key metrics used the compare each hospital:
 Based on the three questions that largely influence a hospital's ranking relative to its cohort, it would be recommended for hospitals to improve the immediacy in which they provide assistance to their patients. The convenience of getting help to a patient seems to be the factor that greatly determines whether or not a hospital is satisfactory to patients. 
 
 ## Dashboard
-![Alt text]([/relative/path/to/img.jpg(https://github.com/CharlmEsca/Hospital-Survey-Insights/issues/1#issue-2438605535?raw=true "Optional Title")  
+![Alt text](https://github.com/CharlmEsca/Hospital-Survey-Insights/issues/1#issue-2438605535)  
 
 
