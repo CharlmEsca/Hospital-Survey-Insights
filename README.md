@@ -6,7 +6,7 @@
 The American 2022 Hospital Consumer Assessment of Hospital Providers and Systems (HCAHPS) Survey dataset and American 2020-21 hospital bed count dataset were merged to create a dataset compiling the HCAHPS Survey results for all American hospitals (smallest to largest). 
 
 ## Inisghts Summary
-To figure out what affects a hospital's satisfaction rating, specific "top-box" questions from the HCAHPS Survey that ask a patient if a hospital "always" performs a good/valuable service is used to compare between the hospitals. 
+To figure out what affects a hospital's satisfaction rating, specific "top-box" questions from the HCAHPS Survey that ask a patient if a hospital "always" performs a good/valuable service is used to compare each hospital. 
 
 Here are the key metrics used the compare each hospital:
 - **Percentage of Patients Rating the Hospital 9-10**
