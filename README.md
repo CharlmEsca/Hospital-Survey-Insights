@@ -1,6 +1,6 @@
 # Hospital-Survey-Insights
 
-## The goal of this project is to investigate the factors that affect a hospital's satisfaction rating in order to surface reccomendations that might increase their satisfaction score in the future. 
+## The goal of this project is to investigate the factors that affect a hospital's satisfaction rating in order to formulate reccomendations that can possibly increase their satisfaction score in the future. 
 
 ## Dataset
 The American 2022 Hospital Consumer Assessment of Hospital Providers and Systems (HCAHPS) Survey dataset and American 2020-21 hospital bed count dataset were merged to create a dataset compiling the HCAHPS Survey results for all American hospitals (smallest to largest). 
