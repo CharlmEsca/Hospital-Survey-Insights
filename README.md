@@ -9,11 +9,9 @@ The American 2022 Hospital Consumer Assessment of Hospital Providers and Systems
 To figure out what affects a hospital's satisfaction rating, specific "top-box" questions from the HCAHPS Survey that ask a patient if a hospital "always" performs a good/valuable service is used to compare between the hospitals. 
 
 Here are the key metrics used the compare each hospital:
-   **Percentage of Patients Rating the Hospital 9-10**
- 
-   **Hospital Question Delta From Mean Cohort %**
- 
-   **Cohort Data Spread**
+- **Percentage of Patients Rating the Hospital 9-10**
+- **Hospital Question Delta From Mean Cohort %**
+- **Cohort Data Spread**
 
 ### Percentage of Patients Rating the Hospital 9-10
 - Top performing hospitals receive a satisfaction score of 9 or 10 from 80-90% of its patients 
