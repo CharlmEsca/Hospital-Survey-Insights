@@ -31,7 +31,9 @@ Here are the key metrics used the compare each hospital:
 - Lower performing hospitals receive patient feedback thatlie towards the left of the mean cohort for all/most top-box questions
 
 ## Recommendations
-Based on the three questions that largely influence a hospital's ranking relative to its cohort, it would be recommended for hospitals to improve the immediacy in which they provide assistance to their patients. The convenience of getting help to a patient seems to be the factor that greatly determines whether or not a hospital is satisfactory to patients. 
+- Based on the three questions that largely influence a hospital's ranking relative to its cohort, it would be recommended for hospitals to improve the immediacy in which they provide assistance to their patients.
+- The convenience of getting help to a patient seems to be the factor that greatly determines whether or not a hospital is satisfactory to patients.
+- Thus, a hospital improving its efficiency in attending to its patients requests for assistance can possibly increase its satisfaction score.  
 
 ## Dashboard
 This interactive dashboard is on [Tableau Public](https://public.tableau.com/app/profile/charlm.escalera/viz/HCAHPS_Survey_Dashboard/HCAHPSDashboard) and can be filtered by state and hospital size. It highlights the metrics mentioned prior of a hospital relative to its cohort when clicked. Other metrics such as a hospital's survey response rate and total number of surveys are also included.
