@@ -10,7 +10,9 @@ To figure out what affects a hospital's satisfaction rating, specific "top-box" 
 
 Here are the key metrics used the compare each hospital:
    **Percentage of Patients Rating the Hospital 9-10**
+ 
    **Hospital Question Delta From Mean Cohort %**
+ 
    **Cohort Data Spread**
 
 ### Percentage of Patients Rating the Hospital 9-10
