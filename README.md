@@ -36,7 +36,7 @@ Here are the key metrics used the compare each hospital:
 - Thus, a hospital improving its efficiency in attending to its patients requests for assistance can possibly increase its satisfaction score.  
 
 ## Dashboard
-This interactive dashboard is on [Tableau Public](https://public.tableau.com/app/profile/charlm.escalera/viz/HCAHPS_Survey_Dashboard/HCAHPSDashboard) and can be filtered by state and hospital size. It highlights the metrics mentioned prior of a hospital relative to its cohort when clicked. Other metrics such as a hospital's survey response rate and total number of surveys are also included.
+This interactive dashboard is on [Tableau Public](https://public.tableau.com/app/profile/charlm.escalera/viz/HCAHPS_Survey_Dashboard/HCAHPSDashboard) and can be filtered by state and hospital size. It highlights the metrics mentioned prior to compare a hospital relative to its cohort when clicked. Other metrics such as a hospital's survey response rate and total number of surveys are also included.
 <img width="1360" alt="Screenshot 2024-07-30 at 1 12 08 PM" src="https://github.com/user-attachments/assets/00804802-a539-485f-a9f7-9e6bccfa4a20">
 
 
